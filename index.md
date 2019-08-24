@@ -1,4 +1,4 @@
-<img src="images/Darwinevolution.png" class="inline"/>
+<img src="images/Darwinevolution.png"  class="img-responsive" alt="">
 
 
 # Chromatin and gene regulatory networks in leukemia and lymphocyte development
