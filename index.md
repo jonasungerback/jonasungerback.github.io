@@ -1,4 +1,4 @@
-<img src="https://github.com/jonasungerback/jonasungerback.github.io/blob/master/images/Darwinevolution.png" class="inline"/>
+<img src="images/Darwinevolution.png" class="inline"/>
 
 
 # Chromatin and gene regulatory networks in leukemia and lymphocyte development
